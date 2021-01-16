@@ -27,3 +27,13 @@ header {
     color: #FDFFFE;
     text-decoration: none;
 }
+video {
+    position: absolute;
+}
+.cont {
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    padding-left: 800px;
+    top: 0px;
+}
