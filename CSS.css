@@ -6,3 +6,24 @@
     background-size: cover;
     background-repeat: no-repeat,repeat;
 }
+.company {
+    float: left;
+    height: 20px;
+    width: 100px;
+    padding: 10px 0 5px 15px;
+}
+.nitems {
+    float: right;
+    margin-left: 60px;
+    margin-right: 0px;
+    padding-top: 7px;
+}
+header {
+    width: 100vw;
+    height: 30px;
+    background-color: #5ACAA4;
+}
+.nitems a {
+    color: #FDFFFE;
+    text-decoration: none;
+}
