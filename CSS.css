@@ -142,7 +142,6 @@ cont6 {
     position: relative;
     top: 700px;
     left: 25px;
-    border: 5px solid black;
     height: 220px;
 }
 .image-container4 {
@@ -164,3 +163,4 @@ cont6 {
 .image-container4 img {
     width: 100%;
     height: 100%;
+}
