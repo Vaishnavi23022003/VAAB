@@ -1,3 +1,8 @@
-﻿body
-{
+﻿body {
+    font-family: 'Fraunces', serif;
+    margin: 0;
+    background: url(bcg.jpg), url(bkg2.png);
+    width: 99vw;
+    background-size: cover;
+    background-repeat: no-repeat,repeat;
 }
