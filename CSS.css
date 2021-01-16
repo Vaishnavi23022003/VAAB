@@ -33,7 +33,14 @@ video {
 .cont {
     position: absolute;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     padding-left: 800px;
-    top: 0px;
+    top: 40px;
+}
+.box {
+    position: absolute;
+    width: 100vw;
+    height: 442px;
+    top: 53px;
+    background-color: black;
 }
